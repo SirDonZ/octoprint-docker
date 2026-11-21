@@ -1,6 +1,8 @@
 main:
   - 'Dockerfile'
   - 'root/**'
+  - '.github/filters.yml'
+  - '.github/workflows/build.yml'
 minimal:
   - 'minimal/**'
 readme:
